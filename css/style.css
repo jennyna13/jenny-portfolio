@@ -25,8 +25,18 @@ Author E-mail: naimlasker@gmail.com
 /* Wide Mobile Layout: 480px */
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
+.link {
+  font-size: 20px;
+  color: white;
+}
+.link:hover, .link:focus{
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  outline: none;
+  color:#b2aead;
+}
 #tech{
-  color:#e2622f;
+  color:#f96327;
 }
 body {
   line-height: 24px;
@@ -76,13 +86,6 @@ button:focus {
   padding-left: 0px;
   padding-right: 0px; }
 
-
-/* .link:hover, .link:focus{
-  text-decoration: none;
-  transition: all 0.3s ease-in-out;
-  outline: none;
-  color:#c9ced6;
-} */
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 .section_gap {
