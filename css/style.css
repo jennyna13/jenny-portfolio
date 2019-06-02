@@ -26,7 +26,7 @@ Author E-mail: naimlasker@gmail.com
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 #tech{
-  color:#7CFC00;
+  color:#e2622f;
 }
 body {
   line-height: 24px;
@@ -76,6 +76,13 @@ button:focus {
   padding-left: 0px;
   padding-right: 0px; }
 
+
+/* .link:hover, .link:focus{
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  outline: none;
+  color:#c9ced6;
+} */
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 .section_gap {
